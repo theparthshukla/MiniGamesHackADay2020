@@ -1,4 +1,5 @@
 To run the program on your system: Change the directory to the correct one for all the games in main.py
+The programs run individually but should be run through the main file for a more seamless experience.
 
 
 Snake and Pong written by Parth Shukla, Class of 2022	

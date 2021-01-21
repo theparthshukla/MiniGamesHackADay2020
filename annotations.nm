@@ -1,0 +1,12 @@
+source_path: /ta-wiki-project/solactive-web-test
+report_path: reports
+safelist_path: .annotation_safe_list.yml
+annotations:
+    "Description":
+    "Link":
+    "Ignore":
+    "Category":
+extensions:
+    java:
+        - java
+        - groovy
